@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "Ka2CloudService", "Ka2CloudService\Ka2CloudService.ccproj", "{B9ED6CD5-E761-4B9F-9C5D-314B029E7B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ka2WebRole", "Ka2WebRole\Ka2WebRole.csproj", "{51CF2F8C-5BBF-4DB7-907B-05824D1FD3E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9ED6CD5-E761-4B9F-9C5D-314B029E7B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9ED6CD5-E761-4B9F-9C5D-314B029E7B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9ED6CD5-E761-4B9F-9C5D-314B029E7B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9ED6CD5-E761-4B9F-9C5D-314B029E7B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51CF2F8C-5BBF-4DB7-907B-05824D1FD3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CF2F8C-5BBF-4DB7-907B-05824D1FD3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CF2F8C-5BBF-4DB7-907B-05824D1FD3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CF2F8C-5BBF-4DB7-907B-05824D1FD3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
