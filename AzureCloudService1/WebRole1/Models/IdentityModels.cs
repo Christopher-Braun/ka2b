@@ -25,6 +25,8 @@ namespace WebRole1.Models
         {
         }
 
+        public System.Data.Entity.DbSet<Mvc4WebRole.Models.RecipeModel> RecipeModels { get; set; }
+
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
