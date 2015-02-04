@@ -209,11 +209,6 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="Recipe\Create.cshtml" />
-    <Content Include="Recipe\Delete.cshtml" />
-    <Content Include="Recipe\Details.cshtml" />
-    <Content Include="Recipe\Edit.cshtml" />
-    <Content Include="Recipe\Index.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
