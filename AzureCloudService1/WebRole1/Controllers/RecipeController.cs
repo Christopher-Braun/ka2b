@@ -9,7 +9,7 @@ using System.Web.Mvc;
 using Mvc4WebRole.Models;
 using WebRole1.Models;
 
-namespace Ka2WebRole.Controllers
+namespace WebRole1.Controllers
 {
     public class RecipeController : Controller
     {
